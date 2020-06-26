@@ -8,3 +8,4 @@ Pippi Langstrumpf ist die Heldin meiner Jugend. Ich war eher der Annika-Typ und 
 Typisches Zitat von Pippi: 
 > Warte nicht darauf, dass die Menschen dich anlächeln. 
 > Zeige ihnen, wie es geht.“
+<img src="https://cdn.pixabay.com/photo/2018/04/23/21/48/doll-3345684_1280.jpg"/>
