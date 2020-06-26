@@ -5,3 +5,6 @@ Pippi Langstrumpf ist die Heldin meiner Jugend. Ich war eher der Annika-Typ und 
 * stark
 * schlau
 * eigensinnig
+Typisches Zitat von Pippi: 
+> Warte nicht darauf, dass die Menschen dich anlächeln. 
+> Zeige ihnen, wie es geht.“
